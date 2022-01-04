@@ -9,4 +9,5 @@ hosts
 .viminfo
 .lesshst
 .python_history
+.gitconfig
 
